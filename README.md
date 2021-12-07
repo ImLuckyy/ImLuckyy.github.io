@@ -1,9 +1,9 @@
 # ImLuckyy.github.io
 ## This is a portfolio for my studies and personal projects that i work on
 
-Links to social -
+Links to social <br />
 https://twitter.com/home?lang=en <br />
-https://www.linkedin.com/in/gurdeep-singh-7ba82b222/
+https://www.linkedin.com/in/gurdeep-singh-7ba82b222/<br />
 
 
 
