@@ -3,8 +3,8 @@
 
 Links to social -
 
-https://twitter.com/home?lang=en
-https://www.linkedin.com/in/gurdeep-singh-7ba82b222/
+*https://twitter.com/home?lang=en
+*https://www.linkedin.com/in/gurdeep-singh-7ba82b222/
 
 
 
