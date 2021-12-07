@@ -2,9 +2,8 @@
 ## This is a portfolio for my studies and personal projects that i work on
 
 Links to social -
-
-*https://twitter.com/home?lang=en
-*https://www.linkedin.com/in/gurdeep-singh-7ba82b222/
+https://twitter.com/home?lang=en <br />
+https://www.linkedin.com/in/gurdeep-singh-7ba82b222/
 
 
 
