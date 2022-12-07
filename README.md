@@ -19,5 +19,6 @@ Things i need to work on in my studies and projects
 
 Thanks to HTML 5UP for template
 https://html5up.net/
+ https://imluckyy.github.io/index.html
 
 
